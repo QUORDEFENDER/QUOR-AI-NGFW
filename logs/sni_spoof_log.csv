@@ -1,0 +1,14 @@
+timestamp,client_ip,sni,server_name,result
+2026-03-13T02:24:21.009701,192.168.10.10,ws.chatgpt.com,ws.chatgpt.com,SNI_OK
+2026-03-13T02:25:10.732219,192.168.10.10,google.com,example.com,SNI_SPOOF_DETECTED
+2026-03-13T02:34:47.974268,192.168.10.10,push.services.mozilla.com,push.services.mozilla.com,SNI_OK
+2026-03-13T02:34:58.512345,192.168.10.10,push.services.mozilla.com,push.services.mozilla.com,SNI_OK
+2026-03-13T02:34:59.332394,192.168.10.10,firefox.settings.services.mozilla.com,firefox.settings.services.mozilla.com,SNI_OK
+2026-03-13T02:48:56.908603,192.168.10.10,safebrowsing.googleapis.com,safebrowsing.googleapis.com,SNI_OK
+2026-03-13T02:55:03.646207,192.168.10.10,push.services.mozilla.com,push.services.mozilla.com,SNI_OK
+2026-03-13T02:55:14.106686,192.168.10.10,push.services.mozilla.com,push.services.mozilla.com,SNI_OK
+2026-03-13T02:55:14.751915,192.168.10.10,firefox.settings.services.mozilla.com,firefox.settings.services.mozilla.com,SNI_OK
+2026-03-13T02:56:59.942208,192.168.10.10,chatgpt.com,chatgpt.com,SNI_OK
+2026-03-13T02:57:00.483348,192.168.10.10,ws.chatgpt.com,ws.chatgpt.com,SNI_OK
+2026-03-13T02:57:09.169312,192.168.10.10,ws.chatgpt.com,ws.chatgpt.com,SNI_OK
+2026-03-13T02:57:53.245467,192.168.10.10,ws.chatgpt.com,ws.chatgpt.com,SNI_OK
