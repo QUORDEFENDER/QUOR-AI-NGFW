@@ -71,7 +71,7 @@ gui.py
 9. Generate Explainable AI (XAI) output.
 10. Display alerts and logs on the Flask dashboard.
 
-👉 For a detailed explanation, see [Project Workflow](how to/Project_Workflow.md).
+👉 For a detailed explanation, see [Project Workflow](Project_Workflow.md).
 
 ## Team
 
