@@ -77,7 +77,7 @@ gui.py
 
 ## Dashboard
 
-![Dashboard](screenshots/flowcap.png)
+![Dashboard](Screenshots/flowcap.png)
 
 ## Documentation
 
