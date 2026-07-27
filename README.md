@@ -74,3 +74,10 @@ gui.py
 - Reinforcement learning
 - Cloud deployment
 - 
+
+## Documentation
+
+- 📄 Final Presentation: [QUOR_Final_Presentation.pdf](docs/QUOR_Final_Presentation.pdf)
+- 🏗️ System Architecture: [Architecture.png](docs/Architecture.png)
+- 🔄 Workflow Diagram: [Workflow.png](docs/Workflow.png)
+- 📋 Use Case Diagram: [UseCaseDiagram.png](docs/UseCaseDiagram.png)
