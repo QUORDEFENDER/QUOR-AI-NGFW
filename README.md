@@ -1,32 +1,50 @@
-QUOR
-Quarantined Unified Operations for Response
+# QUOR
+
+## Quarantined Unified Operations for Response
+
 AI-Powered Virtualized Next Generation Firewall developed as a Final Year Cyber Security Project.
 
-Overview
+---
+
+## Overview
+
 QUOR is a modular Next Generation Firewall (NGFW) that combines Artificial Intelligence with traditional firewall technologies to detect both known and unknown cyber threats.
-The system integrates machine learning, deep packet inspection, ransomware detection, honeypot deception, TLS/SNI spoof detection, and explainable AI into a unified security platform.
 
-*Features
--AI-powered IDS/IPS
--Deep Packet Inspection (DPI)
--Explainable AI (XAI)
--TLS/SNI Spoof Detection
--Integrated Honeypot
--Ransomware Detection
--Multi-source Threat Intelligence
--Flask GUI
--Real-time Monitoring
+The system integrates machine learning, Deep Packet Inspection (DPI), ransomware detection, honeypot deception, TLS/SNI spoof detection, and Explainable AI into a unified security platform.
 
-*Technologies
--Python
--Flask
--Scapy
--mitmproxy
--Scikit-Learn
--Docker
--Linux
+---
 
-*Project Structure
+## Features
+
+- AI-powered IDS/IPS
+- Deep Packet Inspection (DPI)
+- Explainable AI (XAI)
+- TLS/SNI Spoof Detection
+- Integrated Honeypot
+- Ransomware Detection
+- Multi-source Threat Intelligence
+- Flask Web Dashboard
+- Real-time Monitoring
+
+---
+
+## Technologies
+
+- Python
+- Flask
+- Scapy
+- Suricata
+- Zeek
+- mitmproxy
+- Scikit-learn
+- Docker
+- Linux
+
+---
+
+## Project Structure
+
+```text
 capture/
 dpi/
 firewall/
@@ -36,15 +54,23 @@ models/
 ransomware/
 xai/
 gui.py
+```
 
-*Future Improvements
--LLM-assisted firewall rule generation
--Cloud deployment
--Reinforcement learning
--Auto policy recommendation
+---
 
-*Team
--Aswin Manoj
--Achala A S
--Hisham Faizal
--Sabari S
+## Team
+
+- Aswin Manoj
+- Achala A S
+- Hisham Faizal
+- Sabari S
+
+---
+
+## Future Improvements
+
+- LLM-assisted firewall rule generation
+- Auto policy recommendation
+- Reinforcement learning
+- Cloud deployment
+- 
