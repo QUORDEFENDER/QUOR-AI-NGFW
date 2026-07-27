@@ -77,7 +77,7 @@ gui.py
 
 ## Documentation
 
-- 📄 Final Presentation: [QUOR_Final_Presentation.pdf](DOCUMENTS/QUOR_Final_Presentation.pdf)
+- 📄 Final Presentation: [QUOR_Final_Presentation.pdf](DOCUMENTS/QUOR_Projectppt_12/05/26.pptx)
 - 🏗️ System Architecture: [Architecture.png](DOCUMENTS/Architecture.png)
-- 🔄 Workflow Diagram: [Workflow.png](DOCUMENTS/Workflow.png)
+- 🔄 Workflow Diagram: [Workflow.png](DOCUMENTS/workflow.png)
 - 📋 Use Case Diagram: [UseCaseDiagram.png](DOCUMENTS/UseCaseDiagram.png)
