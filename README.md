@@ -75,6 +75,10 @@ gui.py
 - Cloud deployment
 - 
 
+## Dashboard
+
+![Dashboard](screenshots/flowcap.png)
+
 ## Documentation
 
 - 📄 Final Presentation: [QUOR_Final_Presentation.pdf](DOCUMENTS/QUOR_Projectppt_12_05_26.pptx)
