@@ -199,10 +199,10 @@ The complete implementation workflow, including module interactions and source f
 
 | Name | Role |
 |------|------|
-| Aswin Manoj | AI, IDS, Dashboard Development |
-| Achala A S | Research & Documentation |
-| Hisham Faizal | Firewall & Integration |
-| Sabari S | Testing & Validation |
+| Aswin Manoj | Sni spoof detector,Dpi,Xai |
+| Achala A S | Honeypot,Research & Documentation |
+| Hisham Faizal | Packet capturing,ML.IDS |
+| Sabari S | Ransomware Detector |
 
 ---
 
