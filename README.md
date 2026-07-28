@@ -1,10 +1,18 @@
-# QUOR
+<p align="center">
+<img src="Screenshots/banner.png" width="100%">
+</p>
+# 🛡️ QUOR
 
-## Quarantined Unified Operations for Response
+### Quarantined Unified Operations for Response
 
-AI-Powered Virtualized Next Generation Firewall developed as a Final Year Cyber Security Project.
+> AI-Powered Virtualized Next Generation Firewall
 
+Machine Learning • Deep Packet Inspection • Honeypot • Explainable AI
 ---
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web%20GUI-black?logo=flask)
+![Scapy](https://img.shields.io/badge/Scapy-Packet%20Capture-green)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ## Overview
 
